@@ -1,0 +1,78 @@
+{
+    "version": "V2",
+    "requestId": "7ef80d67-8070-4ddd-b420-4d0eea8a7826",
+    "timestamp": 1693817727495,
+    "images": [
+        {
+            "uid": "7a598bab8fef4cf0b1b93e0c5c733c54",
+            "name": "demo",
+            "inferResult": "SUCCESS",
+            "message": "SUCCESS",
+            "validationResult": {
+                "result": "NO_REQUESTED"
+            },
+            "convertedImageInfo": {
+                "width": 1072,
+                "height": 296,
+                "pageIndex": 0,
+                "longImage": false
+            },
+            "fields": [
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 146.0,
+                                "y": 88.0
+                            },
+                            {
+                                "x": 533.0,
+                                "y": 98.0
+                            },
+                            {
+                                "x": 530.0,
+                                "y": 208.0
+                            },
+                            {
+                                "x": 144.0,
+                                "y": 198.0
+                            }
+                        ]
+                    },
+                    "inferText": "160허",
+                    "inferConfidence": 0.9929,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 545.0,
+                                "y": 96.0
+                            },
+                            {
+                                "x": 923.0,
+                                "y": 100.0
+                            },
+                            {
+                                "x": 921.0,
+                                "y": 215.0
+                            },
+                            {
+                                "x": 544.0,
+                                "y": 211.0
+                            }
+                        ]
+                    },
+                    "inferText": "5541",
+                    "inferConfidence": 0.9996,
+                    "type": "NORMAL",
+                    "lineBreak": true
+                }
+            ]
+        }
+    ]
+}
