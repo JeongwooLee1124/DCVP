@@ -3,12 +3,13 @@ import uuid
 import time
 import json
 
-api_url = 'https://dilzbvs063.apigw.ntruss.com/custom/v1/24724/083726d2cd84ff03f4f348eb92a208a6c1e5b6c9a05dd0cd40f5ba5988989887/general'
-secret_key = 'Y052WmtmdkdtWlFXZXZIZE9nVERjaFRtdklrWEtXTkQ='
+"이미지 한장 테스트 용 파일"
+
+api_url = ''
+secret_key = ''
 
 image_file = './input/1.png'
 output_file = './output/1.json'
-
 request_json = {
     'images': [
         {
