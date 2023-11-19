@@ -1,10 +1,6 @@
-# DCVP
+# 스마일게이트멤버십 AI 프로젝트
 
-<img width="1161" alt="image" src="https://github.com/ugiugi0823/DCVS/assets/106899647/6feb5af5-6517-4a7e-971d-1f2d9e5429b1">
-
-
-<br/><br>
-##  연구원 소개 및 AI창작자로서 이루고 싶은 최종목표 
+##  팀원 소개 및 AI 창작자로서 이루고 싶은 최종목표 
 
 - 🤗 [이정우](https://github.com/JeongwooLee1124)
   > 저는 항상 새로운 지식과 기술을 탐구하고 활용하는 것에 큰 흥미를 느꼈습니다. 이러한 학문과 기술이 사람들에게 도움을 주며 사회에 기여할 때 진정한 가치가 있다고 늘 생각해왔습니다. 제가 직접 연구를 통해 만든 인공지능 결과물들이 인간의 삶을 향상시키는 데 사용되며, 인공지능 기술이 사회 문제 해결에 이바지하도록 하고 싶습니다.
@@ -17,6 +13,12 @@
 
 
 <br/><br>
-##  Project : 기존 주차 관제 시스템의 문제점을 딥러닝을 통해서 개선해보자!
-[딥러닝 기반의 개선된 주차 서비스 개발.pdf](https://github.com/JeongwooLee1124/DCVP/files/12486047/default.pdf)
-<img width="1161" alt="스크린샷 2023-08-31 오후 9 27 15" src="https://github.com/JeongwooLee1124/DCVP/assets/68156494/732eafc6-bfa2-453f-a24c-30e37043be1f">
+##  Project : 딥러닝 기반 스마트 주차 서비스 개발
+[SGM AI 프로젝트 공유.pdf](https://github.com/JeongwooLee1124/DCVP/files/13404995/DCVP.SGM.AI.pdf)
+![그림2](https://github.com/JeongwooLee1124/DCVP/assets/68156494/16a7fc43-38bb-4986-83e3-f3738b08c535)
+
+
+
+<br/><br>
+##  시연 결과물 
+![그림1](https://github.com/JeongwooLee1124/DCVP/assets/68156494/2cddb567-bf7d-45f8-a1e4-9cbbb87ac331)
