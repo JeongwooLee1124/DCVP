@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+pytorch
+timm
+ultralytics
+
+tensorflow
+albumentations
+h5py
+futures
+
+streamlit

@@ -1,0 +1,12 @@
+{
+    "160허5542": {
+        "model_name": "아반떼",
+        "car_image": "data_sample/car1_1.png",
+        "plate_image": "data_sample/plate1_1.png"
+    },
+    "160허5541": {
+        "model_name": "K3",
+        "car_image": "data_sample/car2_1.png",
+        "plate_image": "data_sample/plate2_1.png"
+    }
+}
