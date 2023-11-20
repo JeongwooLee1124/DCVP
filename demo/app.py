@@ -15,12 +15,20 @@ import tempfile
 import tensorflow as tf
 from tensorflow.keras.models import load_model
 from tensorflow.keras import backend as K
+from dotenv import load_dotenv
+
 
 import numpy as np
 
 from config import *
 from blue import get_connector, send_message
 import asyncio
+
+load_dotenv()  # 환경 변수 로드
+
+api_url = os.getenv('API_URL')
+secret_key = os.getenv('SECRET_KEY')
+
 
 # 모델과 변환을 로드하는 함수
 @st.cache_data
@@ -222,8 +230,6 @@ def main():
                 buffer = io.BytesIO()
                 plate_image.save(buffer, format="JPEG")
                 buffer.seek(0)
-                api_url = 'https://dilzbvs063.apigw.ntruss.com/custom/v1/24724/083726d2cd84ff03f4f348eb92a208a6c1e5b6c9a05dd0cd40f5ba5988989887/general'
-                secret_key = 'Y052WmtmdkdtWlFXZXZIZE9nVERjaFRtdklrWEtXTkQ='
                 ocr_result = ocr_request(api_url, secret_key, buffer.read())
                 try:
                     fields = ocr_result['images'][0]['fields']
